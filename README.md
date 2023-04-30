@@ -1,61 +1,43 @@
-## Hello, World
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm a Full Stack PHP Laravel Developer with 5+ years of professional experience. I love building web applications and solving complex problems using Laravel, Vue.js, and other modern web technologies.
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Muhammad Ammar Altaf, a Full Stack PHP Laravel Developer, and I know some deployment too](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢开源，也很喜欢折腾，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a> 自动更新：
+ :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    </p>
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-#### 🏊‍♂️ Weekly Development Breakdown
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+<h2 align="left">:heart: Let's get connected:</h2>
 
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
-</td>
-<td valign="top" width="50%">
-
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
-
-<!-- recent_releases starts -->
-* <a href='https://github.com/tw93/Pake/releases/tag/V2.0.0' target='_blank'>Pake 🤱🏻 1.0 -> 👩🏻‍🍼 2.0</a> - 2023-04-29
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.10.1' target='_blank'>MiaoYan 更妙了 🎉</a> - 2023-03-30
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
-* <a href='https://github.com/tw93/weekly/releases/tag/V0.1' target='_blank'>weekly 终于有自己的展示网站了</a> - 2022-10-14
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
-<!-- recent_releases ends -->
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://tw93.fun/2023-02-06/alacritty.html' target='_blank'>改良了下传说中最快的终端</a> - 2023-02-06
-* <a href='https://tw93.fun/2023-01-25/my-2022.html' target='_blank'>2022 年总结 - 率性而活</a> - 2023-01-25
-* <a href='https://tw93.fun/2023-01-02/low-code.html' target='_blank'>什么是比较好的低代码产品</a> - 2023-01-02
-* <a href='https://tw93.fun/2022-12-09/talk.html' target='_blank'>工程师如何明白的做事情</a> - 2022-12-09
-* <a href='https://tw93.fun/2022-12-04/openai.html' target='_blank'>普通人如何不被 OpenAI 取代？</a> - 2022-12-04
-<!-- blog ends -->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
-
-<!-- weekly starts -->
-
-* [第 126 期 - 买了个球](https://weekly.tw93.fun/posts/126-买了个球) - 2023-04-23
-* [第 125 期 - 超大橘子](https://weekly.tw93.fun/posts/125-超大橘子) - 2023-04-16
-* [第 124 期 - 忆泸沽湖](https://weekly.tw93.fun/posts/124-忆泸沽湖) - 2023-04-09
-* [第 123 期 - 杭州新绿](https://weekly.tw93.fun/posts/123-杭州新绿) - 2023-04-02
-* [第 122 期 - 赤道夜景](https://weekly.tw93.fun/posts/122-赤道夜景) - 2023-03-27
-
-<!-- weekly ends -->
-
-</td>
-</tr>
-
-</table>
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
