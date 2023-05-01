@@ -14,7 +14,7 @@
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="JQuery" width="40" height="40"/> </a>
       <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="Bootstrap" width="40" height="40"/> </a><a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="40" height="40"/> </a>
-<a href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="Codeigniter" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://codeigniter.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="Codeigniter" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-wordmark-1.svg" alt="Laravel" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -27,12 +27,11 @@
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :man_technologist: Former Product Lead at 2nd Mouse Venture Inc.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/mammaraltaf) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/mammaraltaf) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/mammaraltaf) [![Instagram Badge](https://img.shields.io/badge/-@mammaraltaf-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://mammaraltaf.tech/)
+[![Linkedin Badge](https://img.shields.io/badge/-mammaraltaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mammaraltaf/)](https://www.linkedin.com/in/mammaraltaf) [![Twitter Badge](https://img.shields.io/badge/-@mammaraltaf-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mammaraltaf)](https://twitter.com/mammaraltaf) [![Facebook Badge](https://img.shields.io/badge/-@mammaraltaf-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/mammaraltaf)](https://www.facebook.com/mammaraltaf) [![Instagram Badge](https://img.shields.io/badge/-@mammaraltaf-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/mammaraltaf/)](https://www.instagram.com/mammaraltaf)
+[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://mammaraltaf.tech/)](https://mammaraltaf.tech/)
